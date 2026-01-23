@@ -9,7 +9,7 @@
 
 <a href="https://cash500.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🎰_ИГРАТЬ_В_THE_DOG_HOUSE_В_1WIN_С_ПРОМОКОДОМ_YOU2-ff007f?style=for-the-badge&labelColor=111827"
+    src="https://img.shields.io/badge/🎰_ИГРАТЬ_В_THE_DOG_HOUSE-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в слот The Dog House"
     width="520"
     style="display:block; margin:24px auto;"
